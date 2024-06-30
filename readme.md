@@ -8,3 +8,6 @@ commit without stage
 changing emergency branch
 <br>
 now pull (combination of fetch and merge ) operation wil take place and changes will be showed in local directorty
+
+<br>
+pushing to github by using push operation
